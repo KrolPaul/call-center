@@ -1,0 +1,9 @@
+{
+  "minResponseTime" : 0,
+  "maxResponseTime" : 180,
+  "minCallDuration" : 60,
+  "maxCallDuration" : 300,
+  "nOperators" : 10,
+  "rejectRepeatedCalls" : false,
+  "maxCallQueueSize" : 100
+}
